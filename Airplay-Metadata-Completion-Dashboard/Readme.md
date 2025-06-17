@@ -69,5 +69,5 @@ This Power BI dashboard provides detailed insights into the **airplay performanc
 
 **Arslan Munir**  
 Power BI & Data Engineer  
-📧 arslan@example.com | 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-arslan-munir-243a2822/)
+ 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-arslan-munir-243a2822/)
 
