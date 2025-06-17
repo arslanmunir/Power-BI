@@ -55,7 +55,7 @@ This Power BI dashboard provides detailed insights into the **airplay performanc
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - Dataset simulated for demo purposes.
 - Can be extended with:
@@ -65,7 +65,7 @@ This Power BI dashboard provides detailed insights into the **airplay performanc
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Arslan Munir**  
 Power BI & Data Engineer  
