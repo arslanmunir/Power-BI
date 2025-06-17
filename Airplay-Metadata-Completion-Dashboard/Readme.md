@@ -65,9 +65,14 @@ This Power BI dashboard provides detailed insights into the **airplay performanc
 
 ---
 
-##  Author
 
-**Arslan Munir**  
-Power BI & Data Engineer  
- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-arslan-munir-243a2822/)
+## Author
+**Muhammad Arslan Munir**  
+Senior SQL Developer | Data Engineer | Power BI Enthusiast
+
+[LinkedIn Profile](https://www.linkedin.com/in/muhammad-arslan-munir-243a2822/) | [Portfolio](https://github.com/arslanmunir)
+
+---
+
+If you found this helpful, please star this repository.
 
